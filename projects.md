@@ -4,7 +4,7 @@ Possible Groups and Projects of Social Research
 Projects 1: Prevalence of Major Depression of Different Countries
 
 * Asian
-    * China可能涉及的议题
+    * China可能涉及的议题（可继续增加）
         * MDD 临床诊断
         * SCL-90  症状自评
         * 官员自杀/违纪中的抑郁症污名现象
