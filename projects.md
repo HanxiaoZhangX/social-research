@@ -4,11 +4,12 @@ Possible Groups and Projects of Social Research
 Projects 1: Prevalence of Major Depression of Different Countries
 
 * Asian
-    * China
+    * China可能涉及的议题
         * MDD 临床诊断
         * SCL-90  症状自评
         * 官员自杀/违纪中的抑郁症污名现象
         * CGSS中的自感抑郁项目
+        * 抑郁症的城乡差异
     * Japan
         * MDD Prevalence
         * SCL-90 症状自评
@@ -37,8 +38,16 @@ Possible Data Sources:
     * [中国卫生与计划生育统计年鉴](http://www.nhfpc.gov.cn/zwgkzt/tjnj/list.shtml)
     * [中国综合社会状况调查(CGSS)](http://www.chinagss.org/)
     * [中国社会状况综合调查(CSS)](http://css.cssn.cn/zgshzkzhdc/ztsy/)
-    * 
+    * [CNKI数据库](http://cnki.net/)
   
+* 美国
+    * [GSS数据库](http://gss.norc.org/)
+    * [PubMed数据库](https://www.ncbi.nlm.nih.gov/pubmed)
+    * [国家精神卫生研究所](https://www.nimh.nih.gov/index.shtml)
+    * [The Substance Abuse and Mental Health Services Administration-US](https://www.samhsa.gov/)
+        * 尤其是其中的[DATA](https://www.samhsa.gov/data/mental-health-facilities-data-nmhss/reports?tab=2)页面。
+        * [Behavioral Health Barometer in US](https://www.samhsa.gov/data/browse-report-document-type)
+        
 
 
 
