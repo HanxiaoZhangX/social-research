@@ -7,9 +7,12 @@
     * China可能涉及的议题（可继续增加）
         * MDD 临床诊断
         * SCL-90  症状自评
+        * 抑郁自评量表（Self-rating depression scale，SDS）
         * 官员自杀/违纪中的抑郁症污名现象
         * CGSS中的自感抑郁项目
         * 抑郁症的城乡差异
+        * 抑郁症的性别差异
+        * 抑郁症的年龄段差异
     * Japan
         * MDD Prevalence
         * SCL-90 症状自评
