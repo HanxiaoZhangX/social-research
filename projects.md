@@ -49,6 +49,9 @@ Possible Data Sources:
         * [Behavioral Health Barometer in US](https://www.samhsa.gov/data/browse-report-document-type)
         
 
+## 部分文献
+
+请见本人[网盘文档](http://pan.baidu.com/s/1mhRaWKK)， 密码`l5wo`。
 
 
 
