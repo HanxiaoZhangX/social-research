@@ -25,8 +25,8 @@
     * 各种族的MDD差异
     * GSS数据库中的自感抑郁项目
 * Britain
-        * MDD Prevalence
-        * SCL-90 症状自评
+    * MDD Prevalence
+    * SCL-90 症状自评
 * Australia
     * MDD Prevalence
     * SCL-90 症状自评
