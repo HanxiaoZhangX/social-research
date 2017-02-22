@@ -56,5 +56,12 @@ Possible Data Sources:
 
 请见本人[网盘文档](http://pan.baidu.com/s/1mhRaWKK)， 密码`l5wo`。
 
+* 首先建议阅读的文献：
+    * 2016-抑郁症如何产生的社会学分析:基于新自由主义全球化的视角
+    * 2014-新自由主义全球化对医疗化的形构
+    * 2011-Cross-national epidemiology of DSM-IV major depressive episode
+    * 2013-the epidemiology of depression across cultures
+    * 2013-Epidemiology of Major Depressive Disorder in Mainland China A Systematic Review
+
 
 
