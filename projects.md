@@ -1,7 +1,7 @@
 # Possible Groups and Projects of Social Research
 
 
-## Projects 1: Prevalence of Major Depression of Different Countries
+## Projects 1: Prevalence of Depression in Different Countries
 
 * Asian
     * China可能涉及的议题（可继续增加）
@@ -16,23 +16,34 @@
     * Japan
         * MDD Prevalence
         * SCL-90 症状自评
+		* SDC自评数据
     * South Korea
         * MDD Prevalence
         * SCL-90 症状自评
+		* SDC自评数据
 * USA
     * MDD prevalence: 20 世纪以来的详细数据
     * SCL-90 症状自评
     * 各种族的MDD差异
     * GSS数据库中的自感抑郁项目
+	* SDC自评数据
+* Canada
+    * MDD Prevalence
+	* SCL-90
+	* 各种族的MDD差异
+	* SDC自评数据
 * Britain
     * MDD Prevalence
     * SCL-90 症状自评
+	* SDC自评数据
 * Australia
     * MDD Prevalence
     * SCL-90 症状自评
+	* SDC自评数据
 * Africa
     * MDD Prevalence
     * SCL-90 症状自评
+	* SDC自评数据
 
 Possible Data Sources:
 
@@ -51,7 +62,6 @@ Possible Data Sources:
         * 尤其是其中的[DATA](https://www.samhsa.gov/data/mental-health-facilities-data-nmhss/reports?tab=2)页面。
         * [Behavioral Health Barometer in US](https://www.samhsa.gov/data/browse-report-document-type)
         
-
 ### 部分文献
 
 请见本人[网盘文档](http://pan.baidu.com/s/1mhRaWKK)， 密码`l5wo`。
